@@ -1,6 +1,6 @@
-CME Python Workshop
-"""Compute for each user the one other user with the highest positive 
-correlation (PCC closest to 1.0)	"""
+"""CME Python Workshop: Compute for each user the one other user with the  
+   highest positive correlation (PCC closest to 1.0)
+"""
 import math as math
 
 # Take filename and return data structure
